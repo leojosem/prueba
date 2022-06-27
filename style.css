@@ -1,0 +1,51 @@
+/*Formas de agregar estilos a mis etiquetas de html*/
+
+/* Directamente al selector*/
+
+/*
+selector {
+    propiedad: valor;
+}
+
+*/
+
+header {
+    background-color: aqua;
+    }
+
+    a {
+        color:black;
+        text-decoration: none;
+    }
+
+/* 2 - Clases: es un atributo que nos permite individualizar a los elementos html*/
+
+.enlace { 
+    color: beige
+}
+
+/* 3 - id */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
